@@ -7,6 +7,11 @@ Status: hidden
 Slug: courses/icw1502
 Summary: iOS Programming Using Swift
 
+**Start Date:** *9/19/2015*<br>                                                                                                                                              
+**Class Hours:** *Saturdays 10am - 1pm (in person),  Wednesdays 8pm-9pm (online)*<br>                                                                                        
+**Length of class:** *16 weeks*<br>                                                                                                                                          
+**Cost of class:** *$500* (all of the proceeds go to charity)<br><br>                                                                                                                                            
+
 The purpose of this course is to show you how to make apps for iPhones and iPad.
 
 This will be a 16-week course for adults, and by the end of the course you will have written your own iOS app that 
@@ -29,7 +34,7 @@ author of [Qur'an Memorizer](http://quranmemorizer.com) and other popular
 iOS apps.  I have been working professionally as a software developer for 20 years, and have been teaching in one capacity or another 
 on and off for the past 30 years. Most recently, I've spent the last year mentoring 14 students as they start their careers as iOS developers. 
 
-The cost of the course will be $500 for the 16 weeks. 
+The cost of the course will be $500 for the 16 weeks. All of this money will be donated to charity. If you cannot afford the $500, please let us know, and we'll work something out.  
 
 
 <a name="form"></a>
