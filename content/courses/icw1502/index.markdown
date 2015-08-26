@@ -1,11 +1,11 @@
-Title: [ICW1502] iOS Programming Using Swift
+Title: iOS Programming Using Swift
 Date: 2015-08-25 21:52
 Modified: 2015-08-25 20:00
-Category: Training
+Category: icw1502
 Tags: iOS, swift
 Status: hidden
 Slug: courses/icw1502
-Summary: [ICW1502] iOS Programming Using Swift
+Summary: iOS Programming Using Swift
 
 The purpose of this course is to show you how to make apps for iPhones and iPad.
 
