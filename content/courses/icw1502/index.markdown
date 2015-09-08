@@ -1,6 +1,6 @@
 Title: iOS Programming Using Swift
 Date: 2015-08-25 21:52
-Modified: 2015-08-25 20:00
+Modified: 2015-09-08 10:13
 Category: icw1502
 Tags: iOS, swift
 Status: hidden
@@ -10,9 +10,9 @@ Summary: iOS Programming Using Swift
 **Start Date:** *9/19/2015*<br>                                                                                                                                              
 **Class Hours:** *Saturdays 10am - 1pm (in person and streaming online),  Wednesdays 8pm-9pm (online only)*<br>                                                                                        
 **Length of class:** *16 weeks*<br>                                                                                                                                          
-**Cost of class:** *$500* (all of the proceeds go to charity)<br><br>                                                                                                                                            
+**Cost of class:** *$500* (All of the proceeds go to charity.)<br><br>                                                                                                                                            
 
-The purpose of this course is to show you how to make apps for iPhones and iPad.
+This course will show you how to make apps for iPhones and iPad.
 
 This will be a 16-week course for adults, and by the end of the course you will have written your own iOS app that 
 will run on your iPhone or iPod.  We will meet two times a week. We will have instruction/lecture on the weekend for three hours, and we will also have a one hour online session once a week. There are a couple of students who will be attending from outside of Illinois, so we will also livestream the classes online.
@@ -27,14 +27,14 @@ running the Yosemite Operating System.
 
 
 If you are interested in taking this class, please fill 
-out [the form at the bottom of this page](#form) so that we can plan appropriately. 
+out [the form at the bottom of this page](#form) so that we can plan appropriately. We only have room for 8-10 students, so availability is limited. 
 
 The class will be taught by me, [Aijaz Ansari](http://aijazansari.com/about), the 
 author of [Qur'an Memorizer](http://quranmemorizer.com) and other popular
 iOS apps.  I have been working professionally as a software developer for 20 years, and have been teaching in one capacity or another 
 on and off for the past 30 years. Most recently, I've spent the last year mentoring 14 students as they start their careers as iOS developers. 
 
-The cost of the course will be $500 for the 16 weeks. All of this money will be donated to charity. If you cannot afford the $500, please let us know, and we'll work something out.  
+The cost of the course will be $500 for the 16 weeks. All of this money will be donated to charity. This is just my way of giving back to the community. If you cannot afford the $500, please let us know, and we'll work something out.  
 
 
 <a name="form"></a>
