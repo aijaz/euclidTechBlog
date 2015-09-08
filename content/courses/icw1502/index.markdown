@@ -8,14 +8,14 @@ Slug: courses/icw1502
 Summary: iOS Programming Using Swift
 
 **Start Date:** *9/19/2015*<br>                                                                                                                                              
-**Class Hours:** *Saturdays 10am - 1pm (in person),  Wednesdays 8pm-9pm (online)*<br>                                                                                        
+**Class Hours:** *Saturdays 10am - 1pm (in person and streaming online),  Wednesdays 8pm-9pm (online only)*<br>                                                                                        
 **Length of class:** *16 weeks*<br>                                                                                                                                          
 **Cost of class:** *$500* (all of the proceeds go to charity)<br><br>                                                                                                                                            
 
 The purpose of this course is to show you how to make apps for iPhones and iPad.
 
 This will be a 16-week course for adults, and by the end of the course you will have written your own iOS app that 
-will run on your iPhone or iPod.  We will meet two times a week. We will have instruction/lecture on the weekend for three hours, and we will also have a one hour online session once a week.
+will run on your iPhone or iPod.  We will meet two times a week. We will have instruction/lecture on the weekend for three hours, and we will also have a one hour online session once a week. There are a couple of students who will be attending from outside of Illinois, so we will also livestream the classes online.
 
 The purpose of this class is to teach you programming so that you can start a career as an iOS developer. It will be an intensive class, but by the end you should have enough knowledge and experience to start interviewing for iOS developer positions.
 
@@ -38,6 +38,7 @@ The cost of the course will be $500 for the 16 weeks. All of this money will be 
 
 
 <a name="form"></a>
+
 
 <!-- Begin MailChimp Signup Form -->
 <link href="//cdn-images.mailchimp.com/embedcode/classic-081711.css" rel="stylesheet" type="text/css">
