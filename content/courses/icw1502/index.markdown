@@ -8,7 +8,7 @@ Slug: courses/icw1502
 Summary: iOS Programming Using Swift
 
 **Start Date:** *9/19/2015*<br>                                                                                                                                              
-**Class Hours:** *Saturdays 10am - 1pm (in person and streaming online),  Wednesdays 8pm-9pm (online only)*<br>                                                                                        
+**Class Hours:** *Saturdays 10am - 1pm (in person and streaming online),  Thursdays 9pm-10pm (online only)*<br>                                                                                        
 **Length of class:** *16 weeks*<br>                                                                                                                                          
 **Cost of class:** *$500* (All of the proceeds go to charity.)<br><br>                                                                                                                                            
 

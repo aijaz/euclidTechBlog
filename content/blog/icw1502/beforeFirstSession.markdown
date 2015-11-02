@@ -21,3 +21,5 @@ XCode is the main tool we use to write iOS apps. Please download and install XCo
 ## Bring Your Device and Cable to Class
 
 Apple has recently started allowing users to install their apps onto their personal phones even if they do *not* have a developers license ($99/year). So please make sure you bring your iPhone or iPod or iPad and the USB charging cable that allows you to connect it to your computer. If you don't have it, it's not the end of the world - you can always run the apps you make on a simulator on your Mac.
+
+[Apple ID Page]: https://appleid.apple.com/account
