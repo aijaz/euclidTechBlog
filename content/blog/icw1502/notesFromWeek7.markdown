@@ -22,10 +22,14 @@ This week we learned about protocols and classes. We covered conforming, casting
 
 First, finish reading the entire book.
 
-Next, read the following page, and perform all the coding tasks listed there: http://www.raywenderlich.com/109156/introducing-protocol-oriented-programming-in-swift-2
+Next, read the following page, and perform all the coding tasks listed there. [Introducing Protocol-Oriented Programming in Swift 2](http://www.raywenderlich.com/109156/introducing-protocol-oriented-programming-in-swift-2)
 
 
-   
+## Thursday Notes
+
+* [Configuring a remote](https://help.github.com/articles/configuring-a-remote-for-a-fork/)
+* [Syncing a fork](https://help.github.com/articles/syncing-a-fork/)
+
 
 
 
