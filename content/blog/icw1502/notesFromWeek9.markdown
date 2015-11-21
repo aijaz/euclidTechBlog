@@ -1,14 +1,14 @@
-Title: Notes from Week 8
-Date: 2015-11-08 10:20
-Modified: 2015-11-08 10:20
+Title: Notes from Week 9
+Date: 2015-11-20 22:20
+Modified: 2015-11-20 22:20
 Tags: iOS, swift, icw1502
-Summary: Notes from Week 8
+Summary: Notes from Week 9
 
 ## Table of Contents
 
 * [Code uploaded to GitHub](#toc1)
 * [What we learned this week](#toc2)
-* [Week 8 Homework Assignment](#toc3)
+* [Week 9 Homework Assignment](#toc3)
 
 ## <a name="toc1"></a>Code uploaded to GitHub
 
@@ -16,11 +16,15 @@ The code that we wrote this week in class has been uploaded to our [class GitHub
 
 ## <a name="toc2"></a>What we learned this week
 
-This week we learned about UIViews, their frames and bounds and how those change with transformations. We also looked at the Run Loop and what happens when a view is marked dirty with `setNeedsDisplay()`. We learned how view controllers are responsible for views. We first wrote a simple app using a manually-created window and view. Then we subclassed UIView to create a view that knew how to draw itself. It drew a rectangle. 
+This week we learned about UIViewControllers. We created IBOutlets and IBActions for our buttons. First we created them in code using a XIB file to design the view. We learned how to present and dismiss views. We looked at several different ways to share data between view controllers. We tried a tightly coupled solution, which we dismissed as a poor design. We tried delegation, and then we used a protocol-based solution, passing closures to the presented view controllers. 
 
-In our second project we wrote an app that drew concentric rectangles. We used `IBOutlet`s and `IBAction`s to link a slider to our view controller to control the line width. Then we created a custom control that allowed us to select one of many circles to control line width.
+Then we learned how to create view controllers in our stroryboard. We learned about segues and learned how to identify different segues in `prepareForSegue`. Finally we learned about the life cycle of view controllers and the various methods that are called, such as `viewDidLoad` and `viewWillAppear` and `viewWillDisappear`.
 
-## <a name="toc3"></a>Week 8 Homework
+## <a name="toc3"></a>Week 9 Homework
 
-Modify our `Rater` custom control. Instead of displaying circles, it should display triangles. In fact, in should be able to display any type of shape that I can draw with a `UIBezierPath`.  Think about the different ways we have learned to eliminate duplicate code and prevent large if-else statements. There are at least two that I can think of. One is more "Swift-ish" than the other. If you get stuck, please feel free to ask for help.
+For this week's homework please make a new view controller called NumericInputViewController. This VC should have one UITextField. Implement it like we did in class. 
+
+Add a new button to your week 8 HypnoRect view that displays this new VC when tapped. When the user taps done on the VC, if they typed in a valid Int from 1 to 20 set the lineWidth of the rectangles to that number. Otherwise set it to 5. 
+
+Extra credit: when the VC is shown, pre populate the text field with the current line width. 
 
